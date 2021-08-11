@@ -14,5 +14,5 @@ front hecho en react para insertar eventos en un calendario
 
 ## Deploy
 
-[calendar](https://calendar-lopez.herokuapp.com/login)
+[calendar](https://calendar-lopez.herokuapp.com/)
 
