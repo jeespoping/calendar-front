@@ -12,3 +12,7 @@ front hecho en react para insertar eventos en un calendario
 - ejecutar el comando `npm install`
 - ejecutar el comando `npm start`
 
+## Deploy
+
+[calendar](https://calendar-lopez.herokuapp.com/login)
+
